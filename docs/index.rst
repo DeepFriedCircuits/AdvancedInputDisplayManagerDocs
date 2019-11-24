@@ -6,13 +6,11 @@
 Welcome to Advanced Input Display Manager's documentation!
 ==========================================================
 
-UNDER CONSTRUCTION!
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   quickstart.rst
 
 Indices and tables
 ==================
