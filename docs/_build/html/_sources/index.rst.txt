@@ -6,8 +6,6 @@
 Welcome to Advanced Input Display Manager's documentation!
 ==========================================================
 
-.. video:: https://www.youtube.com/watch?v=HFEIHv1z_hw
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

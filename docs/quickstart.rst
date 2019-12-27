@@ -1,32 +1,6 @@
 Advanced Key Manager Quickstart
 ===============================
 
-.. note::
-    Due to certain limitations, the project as of v1.0 is marked a Complete Project,
-    but merely for the examples to as they deal with input bindings. Once migrated to your project, all parts of
-    the asset are modular.
-
-Getting started with the system should be a quick and painless process. After you have downloaded the asset, open the created project.
-It is highly recommended to try out the demos, and open up the classes to see their setup.
-
-Migrating to your project
-=========================
-
-When you're ready, you can begin the process of migrating the Advanced Input Display Manager to your project.
-To do so, simply right click on the ``AdvancedKeyManager`` folder, and find the ``Migrate`` option.
-
-.. image:: https://i.gyazo.com/3c2a53561e78872ab87f60345804fdc9.png
-
-A new window will appear, showing you all of the files you will be migrating.
-
-.. image:: https://gyazo.com/2da4cc42efbe4518ee61e344e2008363.png
-
-Next, you'll need to find your project's ``Content`` folder to send the asset to.
-
-.. image:: https://gyazo.com/483c2b87a4420b3247403c5f71a47d52.png
-
-Once complete, the Advanced Key Manager asset will now be in your other UE4 project!
-
 Getting started
 ===============
 
