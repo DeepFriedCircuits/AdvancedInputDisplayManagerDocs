@@ -13,7 +13,7 @@ Next, add an ``AnyKey`` input event and call the following nodes on your newly a
 
 .. image:: https://gyazo.com/ebeaa1f2ff48bfbba34a049cf003f3b6.png
 
-``This will send input received by the ``PlayerController`` directly to the AKM input system.``
+This will send input received by the ``PlayerController`` directly to the AKM input system.
 
 Now that input is set up, you can display it many different ways. The easiest would be to duplicate the ``DebugWidget`` from the ``Examples`` folder.
 This will allow you to show the current active ``Action Preset`` automatically.
